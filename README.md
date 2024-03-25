@@ -1,16 +1,16 @@
-### Hi there 👋
+```js
+//					 __    __     ______     ______     __        
+//					/\ "-./  \   /\  __ \   /\  ___\   /\ \       
+//					\ \ \-./\ \  \ \  __ \  \ \  __\   \ \ \____  
+//					 \ \_\ \ \_\  \ \_\ \_\  \ \_____\  \ \_____\ 
+//					  \/_/  \/_/   \/_/\/_/   \/_____/   \/_____/ 
 
-<!--
-**MaelTtt/MaelTtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const mael = {
+	code: [#Java, #JavaScript ,#Python, #Kotlin, #C, #C++, #MySQL, #Bash],
+	tools: [#Vue, #Node, #Docker, #Flask, #Tailwind],
+	currently_learning: ["HTMX", "Rust", "Astro"],
+	want_to_learn: ["Gleam"],
+	hobbies: ["🎮 Gaming", "🎵 Music", "🏂 Snowboard", "🌍 Travel"],
+	architectures: ["PWA", "SPA", "SSR", "MVC"]
+}
+```
