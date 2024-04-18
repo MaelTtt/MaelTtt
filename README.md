@@ -8,7 +8,7 @@
 const mael = {
 	code: [#Java, #JavaScript ,#Python, #Kotlin, #C, #C++, #MySQL, #Bash],
 	tools: [#Vue, #Node, #Docker, #Flask, #Tailwind],
-	currently_learning: ["HTMX", "Rust", "Astro"],
+	currently_learning: ["HTMX", "Rust", "Solidjs"],
 	want_to_learn: ["Gleam"],
 	hobbies: ["🎮 Gaming", "🎵 Music", "🏂 Snowboard", "🌍 Travel"],
 	architectures: ["PWA", "SPA", "SSR", "MVC"]
