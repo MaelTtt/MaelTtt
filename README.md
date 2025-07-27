@@ -6,10 +6,10 @@
 //					  \/_/  \/_/   \/_/\/_/   \/_____/   \/_____/ 
 
 const mael = {
-	code: [#Java, #JavaScript ,#Python, #Kotlin, #C, #C++, #MySQL, #Bash],
-	tools: [#Vue, #Node, #Docker, #Flask, #Tailwind],
-	currently_learning: ["HTMX", "Rust", "Solidjs"],
-	want_to_learn: ["Gleam"],
+	code: [#TypeScript, #Java ,#Python, #Kotlin, #PostgreSQL],
+	tools: [#Vue, #Nuxt, #tRCP, #Node, #Docker, #Tailwind],
+	currently_learning: ["React"],
+	want_to_learn: ["Rust", "HTMX"],
 	hobbies: ["🎮 Gaming", "🎵 Music", "🏂 Snowboard", "🌍 Travel"],
 	architectures: ["PWA", "SPA", "SSR", "MVC"]
 }
